@@ -1,0 +1,3 @@
+The overall task Consider the system of 10 S&P select sector ETFs, XLB, XLE, XLF, XLI, XLK, XLP, XLU, XLV, XLY and SPY. 
+See the website http://www.sectorspdr.com/sectorspdr/for definitions and descriptions. 
+As for the core idea of this project, first create a portfolio based on 10 ETFs under the mean-variance optimization based on several rules. Then, we calculate returns from 2010-01-01 to 2022-09-30 for 10 ETFs, and portfolio Under the Mean-Variance mode. Next calculate the rolling VaR for each ETF, and portfolio. Finally, get the rolling CoVaR for each asset.
